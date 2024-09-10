@@ -1,0 +1,51 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs
+*.log
+logs/*.log
+
+# Dependency directories
+/node_modules
+/.pnp
+.pnp.js
+
+# Production build files
+/dist
+/build
+
+# Webpack and Babel cache
+/.cache
+/.parcel-cache
+/.webpack
+/coverage
+
+# Source maps
+*.map
+
+# ESLint and Prettier
+.eslintcache
+
+# Jest
+/coverage
+/jest-test-results.json
+/.jest
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Miscellaneous
+*.log

@@ -1,0 +1,57 @@
+// import google font
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+/* reset styles */
+* {
+  color: inherit;
+  margin: 0;
+}
+
+body {
+  font-family: Poppins;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+// Color Variables
+$primary-color: #42db34;
+
+// Spacing
+
+$base-margin: 0.4rem;
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+}
+
+header {
+  background-color: $primary-color;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+.tool {
+  margin: 1rem;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  background-color: white;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #eee;
+}
+.base-margin {
+  margin: $base-margin;
+}

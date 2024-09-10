@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "title": "Webpack",
+      "description": "A powerful JavaScript bundler that compiles modern JavaScript applications into optimized, smaller bundles for browsers."
+    },
+    {
+      "title": "Gulp",
+      "description": "A toolkit for automating tasks in development, such as minifying files, compiling Sass, and optimizing images."
+    },
+    {
+      "title": "Grunt",
+      "description": "A JavaScript task runner that helps automate repetitive tasks such as linting, compiling, and testing code."
+    },
+    {
+      "title": "Parcel",
+      "description": "A fast, zero-configuration web application bundler that automatically handles various file types and dependencies."
+    },
+    {
+      "title": "Rollup",
+      "description": "A module bundler for JavaScript, focusing on producing smaller, more efficient code by eliminating unused exports."
+    },
+    {
+      "title": "Vite",
+      "description": "A modern build tool optimized for speed and development experience, offering fast server start and on-demand JavaScript compilation."
+    },
+    {
+      "title": "Make",
+      "description": "A build automation tool that uses Makefiles to define and manage dependencies and rules for compiling and linking software projects."
+    },
+    {
+      "title": "Maven",
+      "description": "A build and project management tool for Java-based applications, focused on dependency management and project configuration."
+    },
+    {
+      "title": "Gradle",
+      "description": "A versatile build tool that automates the building, testing, and deployment of software, commonly used for Java projects."
+    },
+    {
+      "title": "Bazel",
+      "description": "A build tool that supports large-scale, multi-language projects, providing fast, reproducible builds and tests."
+    },
+    {
+      "title": "Ninja",
+      "description": "A small, fast build system that generates builds more efficiently by using simple files and commands to track dependencies."
+    },
+    {
+      "title": "Ant",
+      "description": "A Java-based build tool that uses XML to define the steps and tasks needed for building, testing, and packaging applications."
+    },
+    {
+      "title": "CMake",
+      "description": "A cross-platform build system that generates native build environments like Makefiles or project files for compilers and IDEs."
+    },
+    {
+      "title": "SBT",
+      "description": "A build tool for Scala and Java projects that offers interactive workflows and integrates with modern developer environments."
+    },
+    {
+      "title": "Buck",
+      "description": "A fast build tool that uses a deterministic approach to build software projects with an emphasis on speed and parallelization."
+    }
+  ]
+}
