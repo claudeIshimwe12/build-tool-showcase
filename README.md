@@ -2,6 +2,10 @@
 
 This project demonstrates the use of various build tools and package managers in a small web application. The application features a list of popular build tools retrieved from a JSON file, styled with Sass, and built using Webpack. It also includes Babel for transpiling ES6+ JavaScript, ESLint for linting, and Jest for testing.
 
+You can preview this project by following this link below 👇
+
+[Live Link](https://build-tools-showcase-ci.netlify.app/)
+
 ## Project Setup
 
 ### Prerequisites
